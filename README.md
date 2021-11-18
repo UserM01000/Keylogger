@@ -16,6 +16,11 @@ Este keylogger es el mas basico y facil de hacer </br>
 por eso si quieres hacerlo mejor o mas poderoso </br>
 el codigo es 100% libre 
 
+# Desactivar el Anti-Virus
+Desactiva el Anti-virus o el windows defender ya que </br>
+lo dectecta rapido y no deja ejecutarlo :/, si tienes </br>
+dudas mejor compilar el main.cpp para mas seguridad :D
+
 # Contact me?
 ### Si tienes dudas, criticas o errores hazmelo saber </br>
 con gusto te respondo :D </br>
