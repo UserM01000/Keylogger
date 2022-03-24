@@ -31,4 +31,4 @@ ASCII para el Mismo facil de Usar
 con gusto te respondo :D </br>
 
 [![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
- # Creditos Colaboracion xAnon_Dark  
+ 
