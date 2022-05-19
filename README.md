@@ -30,5 +30,4 @@ ASCII para el Mismo facil de Usar
 ### Si tienes dudas, criticas o errores hazmelo saber </br>
 con gusto te respondo :D </br>
 
-[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
- 
+[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/UserM01000) 
